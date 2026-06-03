@@ -8,6 +8,7 @@ all the problems i solved!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhanumithra/MyLeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Matrix
 |  |
 | ------- |
