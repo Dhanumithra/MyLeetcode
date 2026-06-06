@@ -5,18 +5,17 @@ public:
         vector<vector<int>> ans;
         int i,j,k,n,sum;
         n=nums.size();
-        for(i=0;i<n;i++){
-            if(nums[i]>0)break;
-            if(i>0 && nums[i]==nums[i-1])continue;
+        for(i=0;i<n-2;i++){
             j=i+1;
             k=n-1;
+            if(nums[i] + nums[j] + nums[j+1] > 0)break;
+            if(i>0 && nums[i]==nums[i-1])continue;
             while(j<k){
                 sum=nums[i]+nums[j]+nums[k];
                 if(sum>0)k--;
                 else if(sum<0)j++;
                 else{
-                    vector<int> res = {nums[i],nums[j],nums[k]};
-                    ans.push_back(res);
+                    ans.push_back({nums[i], nums[j], nums[k]});
                     j++;
                     k--;
                     while(j<k && nums[j]==nums[j-1])j++;
