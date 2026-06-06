@@ -7,6 +7,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dhanumithra/MyLeetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
@@ -53,6 +54,7 @@ all the problems i solved!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dhanumithra/MyLeetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dhanumithra/MyLeetcode/tree/master/0075-sort-colors) |
@@ -71,6 +73,7 @@ all the problems i solved!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Dhanumithra/MyLeetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/0229-majority-element-ii) |
