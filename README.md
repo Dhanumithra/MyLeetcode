@@ -64,6 +64,7 @@ all the problems i solved!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
