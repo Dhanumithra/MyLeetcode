@@ -28,6 +28,7 @@ all the problems i solved!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhanumithra/MyLeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
+| [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +40,7 @@ all the problems i solved!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +105,8 @@ all the problems i solved!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dhanumithra/MyLeetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
