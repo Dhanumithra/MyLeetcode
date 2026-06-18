@@ -73,6 +73,7 @@ all the problems i solved!
 | [0007-reverse-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Bit Manipulation
@@ -112,4 +113,8 @@ all the problems i solved!
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
