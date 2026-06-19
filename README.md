@@ -14,6 +14,7 @@ all the problems i solved!
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dhanumithra/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Dhanumithra/MyLeetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0118-pascals-triangle) |
@@ -74,6 +75,7 @@ all the problems i solved!
 | [0009-palindrome-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Bit Manipulation
