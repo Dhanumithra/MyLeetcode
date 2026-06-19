@@ -79,6 +79,7 @@ all the problems i solved!
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
