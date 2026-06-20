@@ -81,6 +81,7 @@ all the problems i solved!
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -97,6 +98,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
