@@ -27,6 +27,7 @@ all the problems i solved!
 | [0283-move-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhanumithra/MyLeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
@@ -52,6 +53,7 @@ all the problems i solved!
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 ## Prefix Sum
 |  |
@@ -78,6 +80,7 @@ all the problems i solved!
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2396-strictly-palindromic-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Dhanumithra/MyLeetcode/tree/master/2469-convert-the-temperature) |
@@ -106,6 +109,7 @@ all the problems i solved!
 | ------- |
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/0229-majority-element-ii) |
+| [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 ## Dynamic Programming
 |  |
