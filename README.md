@@ -101,6 +101,7 @@ all the problems i solved!
 | [0136-single-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ all the problems i solved!
 | [0053-maximum-subarray](https://github.com/Dhanumithra/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Union-Find
 |  |
 | ------- |
@@ -165,6 +167,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhanumithra/MyLeetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Counting Sort
 |  |
 | ------- |
