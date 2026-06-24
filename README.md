@@ -31,6 +31,7 @@ all the problems i solved!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhanumithra/MyLeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhanumithra/MyLeetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhanumithra/MyLeetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
@@ -112,6 +113,7 @@ all the problems i solved!
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/0229-majority-element-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhanumithra/MyLeetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhanumithra/MyLeetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhanumithra/MyLeetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhanumithra/MyLeetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Counting Sort
 |  |
