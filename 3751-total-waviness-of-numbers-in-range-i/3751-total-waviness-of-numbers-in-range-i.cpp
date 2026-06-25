@@ -5,7 +5,7 @@ public:
         for(int i=num1;i<=num2;i++){
             wave=0;
             string s=to_string(i);
-            for(int j=1;j<s.size()-1;j++){
+            for(size_t j=1;j<s.size()-1;j++){
                 if((s[j]>s[j-1]&&s[j]>s[j+1])||(s[j]<s[j-1]&&s[j]<s[j+1]))wave++;
             }
             sum+=wave;
