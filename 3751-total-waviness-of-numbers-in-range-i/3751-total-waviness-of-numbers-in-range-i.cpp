@@ -6,8 +6,7 @@ public:
             wave=0;
             string s=to_string(i);
             for(int j=1;j<s.size()-1;j++){
-                if(s[j]>s[j-1]&&s[j]>s[j+1])wave++;
-                else if(s[j]<s[j-1]&&s[j]<s[j+1])wave++;
+                if((s[j]>s[j-1]&&s[j]>s[j+1])||(s[j]<s[j-1]&&s[j]<s[j+1]))wave++;
             }
             sum+=wave;
         }
