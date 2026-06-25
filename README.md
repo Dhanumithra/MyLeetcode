@@ -96,6 +96,7 @@ all the problems i solved!
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3516-find-closest-person](https://github.com/Dhanumithra/MyLeetcode/tree/master/3516-find-closest-person) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -134,6 +135,7 @@ all the problems i solved!
 | [0118-pascals-triangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -164,6 +166,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
