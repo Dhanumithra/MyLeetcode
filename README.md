@@ -112,6 +112,7 @@ all the problems i solved!
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Dhanumithra/MyLeetcode/tree/master/3516-find-closest-person) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanumithra/MyLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/Dhanumithra/MyLeetcode/tree/master/3895-count-digit-appearances) |
@@ -191,6 +192,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Dhanumithra/MyLeetcode/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanumithra/MyLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
