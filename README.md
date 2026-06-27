@@ -35,6 +35,7 @@ all the problems i solved!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhanumithra/MyLeetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Dhanumithra/MyLeetcode/tree/master/3895-count-digit-appearances) |
 ## Matrix
@@ -102,6 +103,7 @@ all the problems i solved!
 | [2413-smallest-even-multiple](https://github.com/Dhanumithra/MyLeetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Dhanumithra/MyLeetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Dhanumithra/MyLeetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
