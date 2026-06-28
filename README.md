@@ -27,6 +27,7 @@ all the problems i solved!
 | [0283-move-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhanumithra/MyLeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@ all the problems i solved!
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -212,4 +214,8 @@ all the problems i solved!
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
