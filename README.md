@@ -56,6 +56,7 @@ all the problems i solved!
 | [1688-count-of-matches-in-tournament](https://github.com/Dhanumithra/MyLeetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Dhanumithra/MyLeetcode/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ all the problems i solved!
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanumithra/MyLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/Dhanumithra/MyLeetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Dhanumithra/MyLeetcode/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
@@ -178,6 +180,7 @@ all the problems i solved!
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Dhanumithra/MyLeetcode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
