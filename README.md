@@ -120,6 +120,7 @@ all the problems i solved!
 | [2652-sum-multiples](https://github.com/Dhanumithra/MyLeetcode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/Dhanumithra/MyLeetcode/tree/master/3516-find-closest-person) |
