@@ -6,7 +6,13 @@ public:
             if(c=='1')cnt++;
         }
         int x=n-cnt;
-        string ans=string(cnt-1,'1')+string(x,'0')+"1";  
-        return ans;      
+        for(int i=0;i<cnt-1;i++){
+            s[i]='1';
+        } 
+        for(int i=cnt-1;i<n-1;i++){
+            s[i]='0';
+        } 
+        s[n-1]='1';
+        return s;      
     }
 };
