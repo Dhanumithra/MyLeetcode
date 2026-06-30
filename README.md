@@ -106,6 +106,7 @@ all the problems i solved!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/Dhanumithra/MyLeetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhanumithra/MyLeetcode/tree/master/1688-count-of-matches-in-tournament) |
