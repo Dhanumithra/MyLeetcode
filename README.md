@@ -154,6 +154,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0190-reverse-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -175,6 +176,7 @@ all the problems i solved!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanumithra/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0190-reverse-bits) |
 ## Counting
 |  |
 | ------- |
