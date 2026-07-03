@@ -64,6 +64,7 @@ all the problems i solved!
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Dhanumithra/MyLeetcode/tree/master/3894-traffic-signal-color) |
@@ -143,6 +144,7 @@ all the problems i solved!
 | [3099-harshad-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhanumithra/MyLeetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/Dhanumithra/MyLeetcode/tree/master/3516-find-closest-person) |
@@ -162,6 +164,7 @@ all the problems i solved!
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +220,7 @@ all the problems i solved!
 | ------- |
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
 |  |
 | ------- |
