@@ -110,6 +110,7 @@ all the problems i solved!
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
