@@ -3,9 +3,9 @@ public:
     vector<int> findDegrees(vector<vector<int>>& matrix) {
         vector<int> ans;
         int flag;
-        for(auto mat:matrix){
+        for(int i=0;i<matrix.size();i++){
             flag=0;
-            for(auto n:mat){
+            for(auto n:matrix[i]){
                 if(n==1)flag++;
             }
             ans.push_back(flag);
