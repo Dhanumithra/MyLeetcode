@@ -111,6 +111,7 @@ all the problems i solved!
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -163,6 +164,7 @@ all the problems i solved!
 | ------- |
 | [0136-single-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0190-reverse-bits) |
+| [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
