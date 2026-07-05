@@ -49,6 +49,7 @@ all the problems i solved!
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dhanumithra/MyLeetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Dhanumithra/MyLeetcode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dhanumithra/MyLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +58,7 @@ all the problems i solved!
 | [0073-set-matrix-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhanumithra/MyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dhanumithra/MyLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -282,4 +284,8 @@ all the problems i solved!
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Dhanumithra/MyLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
