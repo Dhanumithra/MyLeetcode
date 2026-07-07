@@ -6,10 +6,7 @@ public:
         while(num>0){
             rem=num%10;
             num/=10;
-            if(rem==0){
-                f++;
-                continue;
-            }
+            if(rem==0)continue;
             x=(x*10)+rem;
             sum+=rem;
         }
