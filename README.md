@@ -152,6 +152,7 @@ all the problems i solved!
 | [3232-find-if-digit-game-can-be-won](https://github.com/Dhanumithra/MyLeetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Dhanumithra/MyLeetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-find-closest-person](https://github.com/Dhanumithra/MyLeetcode/tree/master/3516-find-closest-person) |
@@ -175,6 +176,7 @@ all the problems i solved!
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
