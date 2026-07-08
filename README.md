@@ -138,6 +138,7 @@ all the problems i solved!
 | [2235-add-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Dhanumithra/MyLeetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Dhanumithra/MyLeetcode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhanumithra/MyLeetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/Dhanumithra/MyLeetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/2485-find-the-pivot-integer) |
@@ -251,12 +252,14 @@ all the problems i solved!
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2427-number-of-common-factors](https://github.com/Dhanumithra/MyLeetcode/tree/master/2427-number-of-common-factors) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Dhanumithra/MyLeetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Dhanumithra/MyLeetcode/tree/master/2427-number-of-common-factors) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhanumithra/MyLeetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
