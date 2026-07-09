@@ -29,6 +29,7 @@ all the problems i solved!
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1313-decompress-run-length-encoded-list](https://github.com/Dhanumithra/MyLeetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
