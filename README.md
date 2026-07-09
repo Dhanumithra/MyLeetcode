@@ -27,6 +27,7 @@ all the problems i solved!
 | [0283-move-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -58,6 +59,7 @@ all the problems i solved!
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0073-set-matrix-zeroes) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhanumithra/MyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhanumithra/MyLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -268,6 +270,7 @@ all the problems i solved!
 ## Greedy
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1323-maximum-69-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/Dhanumithra/MyLeetcode/tree/master/1833-maximum-ice-cream-bars) |
