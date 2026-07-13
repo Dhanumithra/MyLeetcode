@@ -28,6 +28,7 @@ all the problems i solved!
 | [0485-max-consecutive-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhanumithra/MyLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Dhanumithra/MyLeetcode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -72,6 +73,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhanumithra/MyLeetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -128,6 +130,7 @@ all the problems i solved!
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
