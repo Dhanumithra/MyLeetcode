@@ -144,6 +144,7 @@ all the problems i solved!
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhanumithra/MyLeetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhanumithra/MyLeetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhanumithra/MyLeetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
