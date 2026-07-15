@@ -191,6 +191,7 @@ all the problems i solved!
 | ------- |
 | [0136-single-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -234,6 +235,7 @@ all the problems i solved!
 | [0053-maximum-subarray](https://github.com/Dhanumithra/MyLeetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
