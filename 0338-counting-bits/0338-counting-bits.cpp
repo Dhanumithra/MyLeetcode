@@ -1,16 +1,9 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-        vector<int>ans(n+1);
-        int cnt=0,num;
+        vector<int>ans(n+1,0);
         for(int i=0;i<n+1;i++){
-            num=i;
-            cnt=0;
-            while(num>0){
-                if(num%2==1)cnt++;
-                num/=2;
-            }
-            ans[i]=cnt;
+            ans[i]=ans[i/2]+(i%2);
         }
         return ans;
     }
