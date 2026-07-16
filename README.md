@@ -133,6 +133,7 @@ all the problems i solved!
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
+| [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Dhanumithra/MyLeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -240,6 +241,7 @@ all the problems i solved!
 | [0118-pascals-triangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
+| [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -267,6 +269,7 @@ all the problems i solved!
 ## Brainteaser
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2396-strictly-palindromic-number) |
 ## Backtracking
 |  |
@@ -311,6 +314,7 @@ all the problems i solved!
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Geometry
 |  |
