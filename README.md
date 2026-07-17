@@ -148,6 +148,7 @@ all the problems i solved!
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Dhanumithra/MyLeetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1641-count-sorted-vowel-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhanumithra/MyLeetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Dhanumithra/MyLeetcode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -244,6 +245,7 @@ all the problems i solved!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
+| [1641-count-sorted-vowel-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -280,6 +282,7 @@ all the problems i solved!
 ## Combinatorics
 |  |
 | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Dhanumithra/MyLeetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
