@@ -7,6 +7,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -112,6 +113,7 @@ all the problems i solved!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -304,6 +306,7 @@ all the problems i solved!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0011-container-with-most-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1323-maximum-69-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
