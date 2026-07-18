@@ -9,8 +9,8 @@ class Solution(object):
         a=0
         while(l<r):
             b=r-l
-            minh=min(height[r],height[l])
-            a=max(a,minh*b)
+            minh=height[r] if height[r]<height[l] else height[l]
+            a=a if a>(minh*b) else (minh*b)
             if height[r]<height[l]:
                 r-=1
             else:
