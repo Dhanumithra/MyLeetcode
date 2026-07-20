@@ -32,6 +32,7 @@ all the problems i solved!
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Dhanumithra/MyLeetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhanumithra/MyLeetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -70,6 +71,7 @@ all the problems i solved!
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0073-set-matrix-zeroes) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1260-shift-2d-grid](https://github.com/Dhanumithra/MyLeetcode/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhanumithra/MyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Dhanumithra/MyLeetcode/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -78,6 +80,7 @@ all the problems i solved!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/0054-spiral-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/Dhanumithra/MyLeetcode/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/Dhanumithra/MyLeetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
