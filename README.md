@@ -25,6 +25,7 @@ all the problems i solved!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanumithra/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/Dhanumithra/MyLeetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
