@@ -1,7 +1,6 @@
-from collections import deque
 class Solution:
     def removeStars(self, s: str) -> str:
-        st=deque()
+        st=[]
         for i in s:
             if i=='*':
                 st.pop()
