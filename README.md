@@ -87,6 +87,7 @@ all the problems i solved!
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dhanumithra/MyLeetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
@@ -267,6 +268,7 @@ all the problems i solved!
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhanumithra/MyLeetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -351,4 +353,8 @@ all the problems i solved!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanumithra/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
