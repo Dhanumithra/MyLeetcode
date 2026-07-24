@@ -140,6 +140,7 @@ all the problems i solved!
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Dhanumithra/MyLeetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
@@ -207,6 +208,7 @@ all the problems i solved!
 | ------- |
 | [0136-single-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Dhanumithra/MyLeetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dhanumithra/MyLeetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -278,6 +280,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Dhanumithra/MyLeetcode/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
