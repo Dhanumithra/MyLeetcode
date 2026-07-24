@@ -141,6 +141,7 @@ all the problems i solved!
 | [0066-plus-one](https://github.com/Dhanumithra/MyLeetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Dhanumithra/MyLeetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
 | [0492-construct-the-rectangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
