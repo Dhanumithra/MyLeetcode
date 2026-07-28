@@ -32,6 +32,7 @@ all the problems i solved!
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Dhanumithra/MyLeetcode/tree/master/1260-shift-2d-grid) |
@@ -377,4 +378,8 @@ all the problems i solved!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
