@@ -131,6 +131,7 @@ all the problems i solved!
 | [0031-next-permutation](https://github.com/Dhanumithra/MyLeetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dhanumithra/MyLeetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Dhanumithra/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanumithra/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0283-move-zeroes) |
@@ -278,6 +279,7 @@ all the problems i solved!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Dhanumithra/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhanumithra/MyLeetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
