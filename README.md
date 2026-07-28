@@ -57,6 +57,7 @@ all the problems i solved!
 | [2221-find-triangular-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhanumithra/MyLeetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhanumithra/MyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -111,6 +112,7 @@ all the problems i solved!
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhanumithra/MyLeetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhanumithra/MyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -382,4 +384,5 @@ all the problems i solved!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
