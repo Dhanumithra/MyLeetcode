@@ -116,6 +116,7 @@ all the problems i solved!
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhanumithra/MyLeetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhanumithra/MyLeetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,6 +249,7 @@ all the problems i solved!
 | [1833-maximum-ice-cream-bars](https://github.com/Dhanumithra/MyLeetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhanumithra/MyLeetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhanumithra/MyLeetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhanumithra/MyLeetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -264,6 +266,7 @@ all the problems i solved!
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhanumithra/MyLeetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +294,7 @@ all the problems i solved!
 | [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
@@ -346,6 +350,7 @@ all the problems i solved!
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
 | ------- |
