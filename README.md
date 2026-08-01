@@ -31,6 +31,7 @@ all the problems i solved!
 | [0283-move-zeroes](https://github.com/Dhanumithra/MyLeetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -155,6 +156,7 @@ all the problems i solved!
 | [0231-power-of-two](https://github.com/Dhanumithra/MyLeetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
@@ -275,6 +277,7 @@ all the problems i solved!
 | [0118-pascals-triangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -304,6 +307,7 @@ all the problems i solved!
 | ------- |
 | [0050-powx-n](https://github.com/Dhanumithra/MyLeetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Dhanumithra/MyLeetcode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Brainteaser
@@ -358,6 +362,7 @@ all the problems i solved!
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Geometry
