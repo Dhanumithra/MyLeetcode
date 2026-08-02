@@ -36,6 +36,7 @@ all the problems i solved!
 | [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0877-stone-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhanumithra/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Dhanumithra/MyLeetcode/tree/master/1260-shift-2d-grid) |
@@ -159,6 +160,7 @@ all the problems i solved!
 | [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Dhanumithra/MyLeetcode/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Dhanumithra/MyLeetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Dhanumithra/MyLeetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -278,6 +280,7 @@ all the problems i solved!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhanumithra/MyLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Dhanumithra/MyLeetcode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1641-count-sorted-vowel-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Dhanumithra/MyLeetcode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -363,6 +366,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Geometry
