@@ -12,6 +12,7 @@ all the problems i solved!
 | [0018-4sum](https://github.com/Dhanumithra/MyLeetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Dhanumithra/MyLeetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Dhanumithra/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Dhanumithra/MyLeetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Dhanumithra/MyLeetcode/tree/master/0053-maximum-subarray) |
@@ -405,6 +406,7 @@ all the problems i solved!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dhanumithra/MyLeetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanumithra/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Dhanumithra/MyLeetcode/tree/master/0704-binary-search) |
