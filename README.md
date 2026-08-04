@@ -34,6 +34,7 @@ all the problems i solved!
 | [0486-predict-the-winner](https://github.com/Dhanumithra/MyLeetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Dhanumithra/MyLeetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0877-stone-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/0877-stone-game) |
@@ -406,6 +407,7 @@ all the problems i solved!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhanumithra/MyLeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Dhanumithra/MyLeetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhanumithra/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
