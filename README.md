@@ -304,6 +304,7 @@ all the problems i solved!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dhanumithra/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/Dhanumithra/MyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Dhanumithra/MyLeetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -416,6 +417,7 @@ all the problems i solved!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/Dhanumithra/MyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -432,4 +434,8 @@ all the problems i solved!
 | [0713-subarray-product-less-than-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dhanumithra/MyLeetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Dhanumithra/MyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
