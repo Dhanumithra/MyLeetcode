@@ -278,6 +278,7 @@ all the problems i solved!
 | [0169-majority-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhanumithra/MyLeetcode/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [2404-most-frequent-even-element](https://github.com/Dhanumithra/MyLeetcode/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Dhanumithra/MyLeetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -310,6 +311,7 @@ all the problems i solved!
 | [1021-remove-outermost-parentheses](https://github.com/Dhanumithra/MyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Dhanumithra/MyLeetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/Dhanumithra/MyLeetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dhanumithra/MyLeetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -374,6 +376,7 @@ all the problems i solved!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhanumithra/MyLeetcode/tree/master/0011-container-with-most-water) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
