@@ -101,6 +101,7 @@ all the problems i solved!
 | [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Dhanumithra/MyLeetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Dhanumithra/MyLeetcode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Dhanumithra/MyLeetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -320,6 +321,7 @@ all the problems i solved!
 | [3110-score-of-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Dhanumithra/MyLeetcode/tree/master/3280-convert-date-to-binary) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Dhanumithra/MyLeetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Dhanumithra/MyLeetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Dhanumithra/MyLeetcode/tree/master/3794-reverse-string-prefix) |
