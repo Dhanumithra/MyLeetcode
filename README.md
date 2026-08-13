@@ -52,6 +52,7 @@ all the problems i solved!
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Dhanumithra/MyLeetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhanumithra/MyLeetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1720-decode-xored-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1720-decode-xored-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dhanumithra/MyLeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dhanumithra/MyLeetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -317,6 +318,7 @@ all the problems i solved!
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhanumithra/MyLeetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dhanumithra/MyLeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Dhanumithra/MyLeetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Dhanumithra/MyLeetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Dhanumithra/MyLeetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dhanumithra/MyLeetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
