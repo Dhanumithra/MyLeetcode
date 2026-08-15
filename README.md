@@ -329,6 +329,7 @@ all the problems i solved!
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Dhanumithra/MyLeetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/Dhanumithra/MyLeetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Dhanumithra/MyLeetcode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2315-count-asterisks](https://github.com/Dhanumithra/MyLeetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/Dhanumithra/MyLeetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhanumithra/MyLeetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
