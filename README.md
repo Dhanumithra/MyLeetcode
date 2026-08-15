@@ -37,6 +37,7 @@ all the problems i solved!
 | [0643-maximum-average-subarray-i](https://github.com/Dhanumithra/MyLeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Dhanumithra/MyLeetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0804-unique-morse-code-words](https://github.com/Dhanumithra/MyLeetcode/tree/master/0804-unique-morse-code-words) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Dhanumithra/MyLeetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/Dhanumithra/MyLeetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0877-stone-game](https://github.com/Dhanumithra/MyLeetcode/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ all the problems i solved!
 | [0349-intersection-of-two-arrays](https://github.com/Dhanumithra/MyLeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhanumithra/MyLeetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Dhanumithra/MyLeetcode/tree/master/0804-unique-morse-code-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhanumithra/MyLeetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Dhanumithra/MyLeetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Dhanumithra/MyLeetcode/tree/master/1512-number-of-good-pairs) |
@@ -313,6 +315,7 @@ all the problems i solved!
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dhanumithra/MyLeetcode/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/Dhanumithra/MyLeetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Dhanumithra/MyLeetcode/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Dhanumithra/MyLeetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [1021-remove-outermost-parentheses](https://github.com/Dhanumithra/MyLeetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Dhanumithra/MyLeetcode/tree/master/1108-defanging-an-ip-address) |
